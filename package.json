@@ -1,0 +1,17 @@
+{
+  "name": "okotokspizza",
+  "version": "1.0.0",
+  "description": "Okotoks Pizza Project",
+  "main": "index,html\u001b[D\u001b[D\u001b[D\u001b[.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mosa Adekunle",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.7.0",
+    "gulp-sass": "^4.0.2"
+  }
+}
